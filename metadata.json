@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Audio Drama Studio",
+  "description": "A client-side audio drama creation tool. Generate multi-character scripts using Gemini, cast voices using Gemini's multi-speaker TTS, and mix with background ambience directly in the browser.",
+  "requestFramePermissions": []
+}
